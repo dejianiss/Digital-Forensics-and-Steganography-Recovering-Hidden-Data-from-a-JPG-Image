@@ -159,7 +159,7 @@ Following forensic acquisition, FTK Imager verifies the integrity of the evidenc
 The completed forensic image (**Staganograph.E01**) is mounted for examination. FTK Imager displays the evidence tree, NTFS partitions, orphan files, and unallocated space, allowing investigators to inspect deleted or hidden artifacts.
 
 <p align="center">
-<img src="Screenshot 2026-06-26 at 23.22.47.png" width="900">
+<img src="Screenshot 2026-06-27 at 01.55.55.png" width="900">
 </p>
 
 ---
@@ -169,7 +169,7 @@ The completed forensic image (**Staganograph.E01**) is mounted for examination. 
 The recovered suspect image (**$R1UM07L.jpg**) is loaded into SilentEye for detailed analysis. This represents the investigative stage where the examiner attempts to recover concealed information from the image.
 
 <p align="center">
-<img src="images/Screenshot 2026-06-27 at 00.14.43.png" width="900">
+<img src="Screenshot 2026-06-27 at 02.04.39.png" width="900">
 </p>
 
 ---
@@ -183,7 +183,7 @@ SilentEye successfully decodes the concealed message using the correct extractio
 This confirms the successful completion of the forensic investigation and validates the entire steganography workflow from payload creation through forensic recovery.
 
 <p align="center">
-<img src="images/Screenshot 2026-06-27 at 00.14.28.png" width="900">
+<img src="Screenshot 2026-06-27 at 02.04.54.png" width="900">
 </p>
 
 ---
