@@ -99,7 +99,7 @@ Successful Hidden Message Recovery
 This screenshot shows the investigation environment running inside the **PG_Cyber_Lab** virtual machine. The desktop includes Exterro FTK Imager, Cyber-Tools, and SilentEye. SilentEye is prepared to analyze the target image **Tom_and_Jerry_art_in_MultiVersus.png**, allowing the investigator to perform encoding or decoding operations.
 
 <p align="center">
-<img src="images/Screenshot 2026-06-26 at 23.15.51.png" width="900">
+<img src="Screenshot 2026-06-27 at 01.08.31.png" width="900">
 </p>
 
 ---
@@ -109,7 +109,7 @@ This screenshot shows the investigation environment running inside the **PG_Cybe
 This stage compares PNG and JPEG versions of the same image inside SilentEye. The comparison demonstrates how different image formats affect steganographic payload capacity while maintaining image usability.
 
 <p align="center">
-<img src="images/Screenshot 2026-06-26 at 23.54.42.png" width="900">
+<img src="Screenshot 2026-06-27 at 01.21.37.png" width="900">
 </p>
 
 ---
@@ -119,7 +119,7 @@ This stage compares PNG and JPEG versions of the same image inside SilentEye. Th
 After embedding the hidden payload, the newly created evidence file **Tom_and_Jerry_art_in_MultiVersus._coded.jpg** is successfully written to the forensic workspace on **Local Disk (D:)**, providing an auditable output for subsequent forensic analysis.
 
 <p align="center">
-<img src="images/Screenshot 2026-06-26 at 23.48.41.png" width="900">
+<img src="Screenshot 2026-06-27 at 01.23.56.png" width="900">
 </p>
 
 ---
@@ -129,7 +129,7 @@ After embedding the hidden payload, the newly created evidence file **Tom_and_Je
 Prior to evidence acquisition, the investigation storage partition is verified as empty. Establishing a clean destination minimizes contamination risks and supports proper forensic evidence handling.
 
 <p align="center">
-<img src="images/Screenshot 2026-06-26 at 23.45.59.png" width="900">
+<img src="Screenshot 2026-06-27 at 01.32.01.png" width="900">
 </p>
 
 ---
@@ -139,7 +139,7 @@ Prior to evidence acquisition, the investigation storage partition is verified a
 Using Exterro FTK Imager, the target partition is mounted for non-destructive analysis. The integrated Hex Viewer displays raw disk sectors and confirms the NTFS file system signature, validating the structure of the evidence before imaging.
 
 <p align="center">
-<img src="images/Screenshot 2026-06-26 at 23.43.02.png" width="900">
+<img src="Screenshot 2026-06-27 at 01.35.16.png" width="900">
 </p>
 
 ---
@@ -149,7 +149,7 @@ Using Exterro FTK Imager, the target partition is mounted for non-destructive an
 Following forensic acquisition, FTK Imager verifies the integrity of the evidence using both **MD5** and **SHA-1** hashing algorithms. The matching hashes confirm the forensic image remained unchanged throughout acquisition.
 
 <p align="center">
-<img src="images/Screenshot 2026-06-26 at 23.25.28.png" width="900">
+<img src="Screenshot 2026-06-27 at 01.53.14.png" width="900">
 </p>
 
 ---
@@ -159,7 +159,7 @@ Following forensic acquisition, FTK Imager verifies the integrity of the evidenc
 The completed forensic image (**Staganograph.E01**) is mounted for examination. FTK Imager displays the evidence tree, NTFS partitions, orphan files, and unallocated space, allowing investigators to inspect deleted or hidden artifacts.
 
 <p align="center">
-<img src="images/Screenshot 2026-06-26 at 23.22.47.png" width="900">
+<img src="Screenshot 2026-06-26 at 23.22.47.png" width="900">
 </p>
 
 ---
