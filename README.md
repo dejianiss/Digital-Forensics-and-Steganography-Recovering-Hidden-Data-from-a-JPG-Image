@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Steganography-SilentEye-success?style=for-the-badge">
 <img src="https://img.shields.io/badge/Evidence-E01-orange?style=for-the-badge">
 <img src="https://img.shields.io/badge/Platform-Windows%2010-informational?style=for-the-badge">
-<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
+
 </p>
 
 ---
